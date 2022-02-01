@@ -11,7 +11,9 @@ After we had finished this assignment, I studied some of the other weather patte
 
 <img align="left" width="300" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/humidity.png" >
 <img align="left" width="300" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/temp.png" >
-<img align="left" width="300" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph5.png" >-
+<img align="left" width="300" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph5.png" >
+-
+
 <br>
 </br>
 
