@@ -6,20 +6,19 @@ In this collaboration, we explored and ultimately visualized the temperature, we
 
 After we had finished this assignment, I studied some of the other weather patterns in the Andover area out of interest
 
+A full writeup can be found under ```Computer Science Project Writeup```
+>(What a clever and descriptive name!)
+
 
 ## INITIAL VISUALIZATIONS:
 
-<img align="left" width="300" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/humidity.png" >
-<img align="left" width="300" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/temp.png" >
-<img align="left" width="300" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph5.png" >
--
-
-<br>
-</br>
+![Image](https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/humidity.png)
+![Image](https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/temp.png)
+![Image](https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph5.png)
 
 ## SECONDARY VISUALIZATIONS:
 
-<img align="left" width="200" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph1.png" >
-<img align="left" width="200" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph2.png" >
-<img align="left" width="200" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph3.png" >
-<img align="left" width="200" src="https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph4.png" >
+![Image](https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph1.png)
+![Image](https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph2.png)
+![Image](https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph3.png)
+![Image](https://github.com/Brian-Masse/Addison-Data-Visualization/blob/main/images/graph4.png)
